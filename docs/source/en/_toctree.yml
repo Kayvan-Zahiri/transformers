@@ -298,6 +298,8 @@
     title: Metal
   - local: quantization/mxfp4
     title: MXFP4
+  - local: quantization/nvfp4
+    title: NVFP4
   - local: quantization/optimum
     title: Optimum
   - local: quantization/quanto
